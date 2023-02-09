@@ -13,7 +13,7 @@ Zay:
 1:Magnifying Glass + Light (free)
 2:Life360 (free)
 Chen:
-3:Video calling apps (free)
+3:AccuWeather
 4:SmartBP (free)
 
 user research
