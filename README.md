@@ -13,7 +13,7 @@ Zay:
 1:Magnifying Glass + Light (free)
 2:Life360 (free)
 Chen:
-3:AccuWeather
+3:Drugs.com Medication Guide
 4:SmartBP (free)
 
 user research
